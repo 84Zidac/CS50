@@ -1,0 +1,70 @@
+
+  body {
+    background-image: url('https://cdn.astrobin.com/thumbs/j_cla7D4ZWkA_16536x0_skslmMKb.jpg');
+    background-size: cover;
+    color: white;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+}
+/* Apply to all elements */
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Apply to elements with class "container" */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Apply to h1 elements */
+h1 {
+  font-size: 36px;
+  color: #343a40;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Apply to p elements */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #868e96;
+  margin-bottom: 20px;
+}
+
+/* Apply to elements with ID "footer" */
+#footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Apply to elements with class "btn" */
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* Apply to elements with class "btn" when hovered over */
+.btn:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+

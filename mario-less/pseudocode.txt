@@ -1,0 +1,5 @@
+ask how high to make the blocks
+check to make sure it is between 1 and 8
+find out how many spaces and blocks are needed in the row
+print required spaces and blocks
+move on to the next row

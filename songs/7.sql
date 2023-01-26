@@ -1,0 +1,1 @@
+SELECT AVG(energy) FROM (SELECT songs.energy FROM songs, artists WHERE artist_id = artists.id AND artists.name = 'Post Malone');

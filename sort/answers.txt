@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+random = 10.329; reversed = 6.639; sorted = .621
+How do you know?: It sorted the "sorted" text file way faster than any other.
+
+sort2 uses: Merge Sort
+random = .837; reversed = .835; sorted = .927
+How do you know?: all times are basically the same, and it was quick
+
+sort3 uses: Selection Sort
+random = 3.885; reversed = 3.868; sorted = 3.667
+How do you know?: All times were about the same (just like merge sort) but this was much slower.
